@@ -1,0 +1,1 @@
+fasp.sra.ebi.ac.uk:/vol1/fastq/SRR286/013/SRR28618313/SRR28618313_subreads.fastq.gz
